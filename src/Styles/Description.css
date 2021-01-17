@@ -1,0 +1,41 @@
+.description {
+    width: 220px;
+    height: 36px;
+    color: var(--light-black-color);
+    font-family: var(--default-font);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.3px;
+    margin-bottom: 8px;
+}
+
+.description-container {
+    margin-top: 15px;
+    margin-left: 16px;
+}
+
+.trainer-image {
+    float: right;
+    margin-right: 16px;
+    margin-top: 1px;
+    max-width: 28px;
+    max-height: 28px;
+    border-radius: 4px;
+    border-color: palevioletred;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.view-details {
+    width: 100px;
+    height: 16px;
+    color: var(--blue-color);
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 11px;
+}

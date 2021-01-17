@@ -1,0 +1,25 @@
+.small-icons {
+    width: 12px;
+    height: 12px;
+    margin-right: 4px;
+}
+
+.stats {
+    height: 13px;
+    float: left;
+}
+
+.stats-section {
+    margin-right: 11px;
+}
+
+.time-and-distance-info {
+    height: 12px;
+    color: var(--light-black-color);
+    font-family: var(--default-font);
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}

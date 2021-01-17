@@ -1,0 +1,20 @@
+.activity-image {
+    max-width: 288px;
+    max-height: 164px;
+}
+
+.card {
+    width: 288px;
+    height: 280px;
+    border-radius: 4px;
+    background: var(--white-color);
+    box-shadow: 0px 1px 2px var(--shadow-color);
+    margin-right: 24px;
+    margin-bottom: 24px;
+    display: inline-table;
+    cursor: pointer;
+}
+
+.card-selected {
+    box-shadow: 0px 7px 12px rgba(46,49,52,0.3);
+}
